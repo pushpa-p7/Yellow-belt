@@ -163,11 +163,6 @@ Create a .env file and add:
 API_KEY=your_api_key_here
 RPC_URL=your_rpc_url
 
-## 📸 Screenshots of the UI
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63c87977-cb24-4355-809b-38ecfe730167" />
-
-
 
 
 ## 🚀 Future Improvements
@@ -204,5 +199,5 @@ Open-source Web3 ecosystem
 
 ## 📬 Contact
 
-Shubhajeet Saha
+Pushpa Bharti
 >>>>>>> 77fa3706c14dfc43962877661c338bc482784fe3
