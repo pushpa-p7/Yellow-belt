@@ -1,10 +1,12 @@
 # Token Swap Widget
 
 A decentralized application (dApp) built on the Stellar network using Soroban smart contracts. This project provides a comprehensive widget interface for swapping tokens.
-Contract Explorar : https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CD4WOKVETURYJHLN63MM2SHIGYFUBLF3DPTTLEDTWTENMSCFT7GPSNM5;;
+
+Contract Explorar : https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CD4WOKVETURYJHLN63MM2SHIGYFUBLF3DPTTLEDTWTENMSCFT7GPSNM5;
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f63cd696-47e9-453b-853d-c7bda1a29d78" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a39970c-b4b0-4e23-9772-176e4b75a894" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62aab416-c6bc-44ed-bfa9-a144e7d4b772" />
+
 
 
 ## Project Structure
