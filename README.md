@@ -1,4 +1,4 @@
-# Token Swap Widget
+# 💱 Token Swap Widget
 
 A decentralized application (dApp) built on the Stellar network using Soroban smart contracts. This project provides a comprehensive widget interface for swapping tokens.
 
