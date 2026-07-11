@@ -4,6 +4,10 @@ members = [
   "contracts/*",
 ]
 
+[workspace.package]
+edition = "2021"
+rust-version = "1.86"
+
 [workspace.dependencies]
 soroban-sdk = "25"
 
@@ -16,8 +20,9 @@ debug-assertions = false
 panic = "abort"
 codegen-units = 1
 lto = true
+incremental = false
 
-# For more information about this profile see https://soroban.stellar.org/docs/basic-tutorials/logging#cargotoml-profile
+# Enable logs for local debugging
 [profile.release-with-logs]
 inherits = "release"
 debug-assertions = true
