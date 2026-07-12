@@ -134,7 +134,7 @@ Token-Swap-Widget/
 ## ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
-git clone https://github.com/shubhajeet26/Token-Swap-Widget-2.git
+git clone https://github.com/pushpa-p7/Yellow-belt.git
 cd Token-Swap-Widget-2
 
 2️⃣ Install dependencies
