@@ -1,12 +1,14 @@
 {
   "name": "client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
+  "description": "Frontend client for the project",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "lint:fix": "eslint --fix .",
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
@@ -35,5 +37,8 @@
   "trustedDependencies": [
     "sharp",
     "unrs-resolver"
-  ]
+  ],
+  "engines": {
+    "node": ">=20"
+  }
 }
